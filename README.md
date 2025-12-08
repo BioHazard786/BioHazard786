@@ -6,7 +6,7 @@ I'm a self-taught hobbyist programmer from India who loves building and contribu
 
 <h2>Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="30"</img></h2>
 
-![](https://skillicons.dev/icons?i=javascript,typescript,python,cpp,markdown,html,css,react,nextjs,tailwind,flask,express,sqlite,postgres,redis,mongodb,docker,bun,nodejs,vite,linux,nginx,git,github,supabase,githubactions,vscode)
+![](https://skillicons.dev/icons?i=javascript,typescript,python,golang,cpp,markdown,html,css,react,nextjs,tailwind,flask,express,sqlite,postgres,redis,mongodb,docker,bun,nodejs,vite,linux,nginx,git,github,supabase,githubactions,vscode)
 
 <h2>GitHub Stats <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h2>
   
